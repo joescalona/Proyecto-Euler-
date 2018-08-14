@@ -1,2 +1,2 @@
 # Proyecto Euler
-Soluciones (pencas) a los desafíos matemáticos de ProyectEuler
+Soluciones (no muy eficientes) a los desafíos matemáticos de ProyectEuler. Cualquier mejora a algun programa es muy bien recibida :)
